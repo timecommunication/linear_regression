@@ -37,6 +37,7 @@ The sample data
 | 10.5            | 121872.00 |
 
 Use the linear regression to get the relation between the experience and the salary.
+Least square method is the base of this solution.
 
 ![plot](./salary-yearsExperience.jpg)
 
